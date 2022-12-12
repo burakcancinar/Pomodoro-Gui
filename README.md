@@ -1,1 +1,3 @@
 # Pomodoro-Gui
+
+![](pomodoro.jpg)
